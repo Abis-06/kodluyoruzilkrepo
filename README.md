@@ -3,7 +3,7 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 
 ## Projemin Resmi
 
-![Proje Görseli](image.png)
+![Proje Görseli](<VSC İLK PROJEM.PNG>)
 
 
 Yardımlarınız için teşekkür ederim <3
